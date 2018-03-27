@@ -1,0 +1,22 @@
+{
+    "name": "cryptonote-util",
+    "version": "0.0.2",
+    "main": "cryptonote",
+    "author": {
+        "name": "LucasJones",
+        "email": "lucasjonesdev@hotmail.co.uk"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jetcash/cryptonote-util.git"
+    },
+    "dependencies" : {
+        "bindings" : "*",
+        "nan" : "^2.0.0"
+    },
+    "keywords": [
+        "cryptonight",
+        "cryptonote",
+        "jetcash"
+    ]
+}
